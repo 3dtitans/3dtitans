@@ -4,7 +4,6 @@
 
 Gateways
 https://ipfs.github.io/public-gateway-checker/
-94/95 tested 19 online
 ===========================
 Online CORS Hostname 		ΔT
 🌍 * ⚠️ ipfs.fleek.co 		0.29s
@@ -48,11 +47,12 @@ https://bafybeifueoi6jwui6i7dfeqvr5k3e2yetpknrvc6zp23kl64qw7vni7ck4.ipfs.ipfs-ga
 https://w3s.link/ipfs/bafybeifueoi6jwui6i7dfeqvr5k3e2yetpknrvc6zp23kl64qw7vni7ck4/DuniaUMW+VisitorLicense
 
 ============================
-DGirlSeries 300 NFT [ 300PNG + 1 Preview GIF]
+
 https://nftstorage.link/ipfs/bafybeignvq7tzqgygrhska4hxzgdenwwbiox6h3selghyqwa7fhvsjtlai
 https://dweb.link/ipfs/bafybeignvq7tzqgygrhska4hxzgdenwwbiox6h3selghyqwa7fhvsjtlai
 https://ipfs.subutai.io/ipfs/bafybeignvq7tzqgygrhska4hxzgdenwwbiox6h3selghyqwa7fhvsjtlai
 https://w3s.link/ipfs/bafybeignvq7tzqgygrhska4hxzgdenwwbiox6h3selghyqwa7fhvsjtlai
+
 ============================
 
 DBPro Update Apr2013:
