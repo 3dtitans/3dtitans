@@ -4,7 +4,7 @@
 
 Gateways
 https://ipfs.github.io/public-gateway-checker/
-===========================
+**===========================
 Online CORS Hostname 		ΔT
 🌍 * ⚠️ ipfs.fleek.co 		0.29s
 🌍 * ✅ cf-ipfs.com 💚 		0.33s
@@ -82,4 +82,6 @@ Login with this github account
 
 Github login using hulahoopnft@gmail.com
 
-API Keys for NFTUp app: hhoop= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDMwNkE3Qzk4NDBiNmVlQjM5NTdkZjJkQWQyYjcxNDc3N0FBOTlBZEIiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTcwNzk5MDAyMzM2OCwibmFtZSI6Imhob29wIn0.xr29f-9dlDzla7i_GCwg3zj930nxPPgHmWi4SH33gnc 
+API Keys for NFTUp app: hhoop= eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDMwNkE3Qzk4NDBiNmVlQjM5NTdkZjJkQWQyYjcxNDc3N0FBOTlBZEIiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTcwNzk5MDAyMzM2OCwibmFtZSI6Imhob29wIn0.xr29f-9dlDzla7i_GCwg3zj930nxPPgHmWi4SH33gnc  
+
+https://classic-app.nft.storage/ 
